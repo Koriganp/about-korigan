@@ -1,0 +1,23 @@
+hi {
+	font-size: 60px;
+	text-align: center;
+	color: blue;
+	margin: 0;
+	padding: 20px 0;
+	text-shadow: 3px, 3px, 1px, black;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2px;
+	letter-spacing: 1px;
+}
+
+html {
+	background-color: rgb(255,255,255);
+}
+
+img.resize {
+	max-width: 100%;
+	max-height: 100%;
+}
