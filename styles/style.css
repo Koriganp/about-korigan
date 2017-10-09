@@ -1,3 +1,8 @@
+html {
+	font-size: 18px;
+	font-family: 'Helvetica LT Std', sans-serif;
+}
+
 h1 {
 	font-size: 60px;
 	text-align: center;
@@ -7,18 +12,21 @@ h1 {
 	text-shadow: 3px 3px 1px black;
 }
 
-p, li {
-	font-size: 16px;
-	line-height: 2px;
-	letter-spacing: 1px;
-}
-
 img.me {
 	display: block;
 	max-width: 50%;
 	max-height: 50%;
 	margin: auto;
 }
-h2, li {
+h2 {
 	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+ul {
+	display: inline-block;
+	text-align: left;
 }
