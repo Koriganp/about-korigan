@@ -19,3 +19,6 @@ img.me {
 	max-height: 50%;
 	margin: auto;
 }
+h2, li {
+	text-align: center;
+}
