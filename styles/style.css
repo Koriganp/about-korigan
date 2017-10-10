@@ -27,7 +27,7 @@ h2 { /*Centering the list heading*/
 }
 
 
-div { /*Added <div> tag to allow centering of child elements*/
+.skillList { /*Added <div> tag to allow centering of child elements*/
 	text-align: center;
 }
 
