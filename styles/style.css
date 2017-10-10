@@ -1,13 +1,13 @@
 html { /*Changing the font to something easier to see*/
 	font-size: 18px;
-	font-family: 'Helvetica LT Std', sans-serif;
+	font-family: 'Songti';
 }
 
 
 h1 { /*Centering and enlarging the heading, also adding colors and effects*/
 	font-size: 60px;
 	text-align: center;
-	color: blue;
+	color: white;
 	margin: 0;
 	padding: 20px 0;
 	text-shadow: 3px 3px 1px black;
