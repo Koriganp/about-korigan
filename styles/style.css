@@ -3,6 +3,7 @@ html { /*Changing the font to something easier to see*/
 	font-family: 'Helvetica LT Std', sans-serif;
 }
 
+
 h1 { /*Centering and enlarging the heading, also adding colors and effects*/
 	font-size: 60px;
 	text-align: center;
@@ -12,19 +13,24 @@ h1 { /*Centering and enlarging the heading, also adding colors and effects*/
 	text-shadow: 3px 3px 1px black;
 }
 
+
 img.me { /*Centering the image and sizing it to the page*/
 	display: block;
 	max-width: 50%;
 	max-height: 50%;
 	margin: auto;
 }
+
+
 h2 { /*Centering the list heading*/
 	text-align: center;
 }
 
+
 div { /*Added <div> tag to allow centering of child elements*/
 	text-align: center;
 }
+
 
 ul { /*Centered list*/
 	display: inline-block;
