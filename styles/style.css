@@ -1,6 +1,6 @@
 html { /*Changing the font to something easier to see*/
 	font-size: 18px;
-	font-family: 'Songti';
+	font-family: 'Nosifer', sans-serif;
 }
 
 
@@ -32,11 +32,7 @@ h2 { /*Centering the list heading*/
 }
 
 
-ul { /*Centered list*/
-	display: inline-block;
-	text-align: left;
-}
-
+/*Zach's additions*/
 .odd {
 	text-align: left;
 }
@@ -47,4 +43,12 @@ ul { /*Centered list*/
 
 p {
 	color: greenyellow;
+}
+
+.redtext {
+	color: red;
+}
+
+.purpletext {
+	color: rebeccapurple;
 }
