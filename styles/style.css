@@ -44,3 +44,7 @@ ul { /*Centered list*/
 .even {
 	text-align: right;
 }
+
+p {
+	color: greenyellow;
+}
