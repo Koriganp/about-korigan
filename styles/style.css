@@ -36,3 +36,11 @@ ul { /*Centered list*/
 	display: inline-block;
 	text-align: left;
 }
+
+.odd {
+	text-align: left;
+}
+
+.even {
+	text-align: right;
+}
